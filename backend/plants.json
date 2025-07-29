@@ -1,0 +1,147 @@
+[
+  { 
+    "name": "Abóbora", 
+    "improves_soil": false, 
+    "cycle": "médio" 
+  },
+  { 
+    "name": "Alface", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Alho", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Amendoim", 
+    "improves_soil": true, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Amendoim forrageiro", 
+    "improves_soil": true, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Aveia", 
+    "improves_soil": true, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Bananeira", 
+    "improves_soil": false, 
+    "cycle": "longo" 
+  },
+  { 
+    "name": "Batata", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Berinjela", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Capim-limão", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Cebola", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Cenoura", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Crotalária", 
+    "improves_soil": true, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Ervilha", 
+    "improves_soil": true, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Ervilha-de-cabra", 
+    "improves_soil": true, 
+    "cycle": "médio" 
+  },
+  { 
+    "name": "Feijão", 
+    "improves_soil": true, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Feijão-bravo", 
+    "improves_soil": true, 
+    "cycle": "médio" 
+  },
+  { 
+    "name": "Feijão-guandu", 
+    "improves_soil": true, 
+    "cycle": "longo" 
+  },
+  { 
+    "name": "Girassol", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Inhame", 
+    "improves_soil": false, 
+    "cycle": "médio" 
+  },
+  { 
+    "name": "Mamona", 
+    "improves_soil": true, 
+    "cycle": "médio" 
+  },
+  { 
+    "name": "Manjericão", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Melancia", 
+    "improves_soil": false, 
+    "cycle": "médio" 
+  },
+  { 
+    "name": "Milho", 
+    "improves_soil": false, 
+    "cycle": "médio" 
+  },
+  { 
+    "name": "Nabo", 
+    "improves_soil": true, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Pepino", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Pimentão", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Quiabo", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  },
+  { 
+    "name": "Tomate", 
+    "improves_soil": false, 
+    "cycle": "curto" 
+  }
+]

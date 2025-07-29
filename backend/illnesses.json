@@ -1,0 +1,52 @@
+[
+
+    {
+        "name_disease": "Piolho branco",
+        "symptoms_disease": ["Folhas pretas", "Queda dos frutos", "Queda das folhas"],
+        "scientific_name": "Orthezia praelonga",
+        "description": "O Piolho branco é uma praga que causa o escurecimento das folhas, que adquirem uma coloração preta devido à presença de fumagina. A infestação leva à queda prematura das folhas e frutos, comprometendo a produção da planta."
+    },
+    {
+        "name_disease": "Minador das folhas",
+        "symptoms_disease": ["Emrolamento das folhas", "Queda das folhas", "Caminhos em ziguezague na folha"],
+        "scientific_name": "Phyllocnistis citrella",
+        "description": "O Minador das folhas é um inseto que se alimenta internamente da folha, criando túneis em ziguezague visíveis na superfície. As folhas atacadas se enrolam e caem, o que reduz a capacidade fotossintética da planta."
+    },
+    {
+        "name_disease": "Escama farinha",
+        "symptoms_disease": ["Casca do tronco rachado", "Tronco com manchas esbranquiçadas", "Morte de galhos"],
+        "scientific_name": "Pinnaspis aspidistrae",
+        "description": "A Escama farinha afeta principalmente o tronco, onde provoca manchas esbranquiçadas semelhantes a farinha e rachaduras na casca. Em casos avançados, causa morte de galhos e enfraquecimento da planta."
+    },
+    {
+        "name_disease": "Coleobroca",
+        "symptoms_disease": ["Furos no tronco", "Murchamento dos ramos", "Secamento dos ramos"],
+        "scientific_name": "Trachyderes thoracicus",
+        "description": "A Coleobroca é uma praga que perfura o tronco, deixando furos visíveis. Essa perfuração dificulta a circulação de seiva, causando o murchamento e secamento progressivo dos ramos da planta."
+    },
+    {
+        "name_disease": "Mosca branca",
+        "symptoms_disease": ["Folhas pretas", "Folhas deformadas", "Folhas amareladas exceto nas nervuras"],
+        "scientific_name": "Bemisia tabaci",
+        "description": "A Mosca branca se alimenta da seiva e favorece o crescimento de fungos como a fumagina, que escurece as folhas. Também provoca deformações e amarelamento das folhas, exceto nas nervuras, prejudicando o desenvolvimento da planta."
+    },
+    {
+        "name_disease": "Pulgão preto",
+        "symptoms_disease": ["Queda das folhas", "Queda dos botões florais", "Encarquilhamento das folhas"],
+        "scientific_name": "Toxoptera citricida",
+        "description": "O Pulgão preto se instala em brotações e botões florais, sugando a seiva da planta. Isso provoca a queda precoce das folhas e flores, além de deformar e enrugar as folhas afetadas."
+    },
+    {
+        "name_disease": "Ácaro da ferrugem",
+        "symptoms_disease": ["Manchas escuras no fruto", "Queda das folhas", "Manchas escuras nas folhas"],
+        "scientific_name": "Phyllocoptruta oleivora",
+        "description": "O Ácaro da ferrugem causa o aparecimento de pequenas manchas escuras em folhas e frutos, semelhantes à ferrugem. Com o tempo, leva à queda foliar intensa e à desvalorização dos frutos atacados."
+    },
+    {
+        "name_disease": "Ácaro branco",
+        "symptoms_disease": ["Folhas com aspecto corticoso", "Frutos com a coloração cinza prateada", "Margens das folhas dobradas para baixo"],
+        "scientific_name": "Polyphagotarsonemus latus",
+        "description": "O Ácaro branco causa o espessamento das folhas, que adquirem um aspecto corticoso e ficam com as margens dobradas para baixo. Os frutos também são afetados, ficando com coloração cinza-prateada e aparência ressecada."
+    }
+
+]
