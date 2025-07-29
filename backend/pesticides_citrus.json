@@ -1,0 +1,1775 @@
+[
+  {
+    "numero_registro": "45419",
+    "marca_comercial": [
+      "Clorpiri 480 EC"
+    ],
+    "titular_registro": "Sharda do Brasil Comércio de Produtos Químicos e Agroquímicos LTDA",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "SL - Concentrado Solúvel",
+    "ingrediente_ativo": [
+      "clorpirifós (organofosforado) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "clorpirifós",
+        "grupo_quimico": "organofosforado",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "Contato e ingestão."
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "III - Produto Moderadamente Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=45419&p_id_produto_formulado_tecnico=11326"
+  },
+  {
+    "numero_registro": "19208",
+    "marca_comercial": [
+      "Clorpirifos Sabero 480 EC"
+    ],
+    "titular_registro": "Coromandel América S.A",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "clorpirifós (organofosforado) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "clorpirifós",
+        "grupo_quimico": "organofosforado",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "De contato e ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "II - Produto Altamente Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": true,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=19208&p_id_produto_formulado_tecnico=9575"
+  },
+  {
+    "numero_registro": "7097",
+    "marca_comercial": [
+      "Clorpirifós Fersol 480 EC"
+    ],
+    "titular_registro": "Ameribrás Indústria e Comércio Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "clorpirifós (organofosforado) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "clorpirifós",
+        "grupo_quimico": "organofosforado",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "De contato e ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "III - Produto Moderadamente Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": true,
+    "corrosivo": true,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=7097&p_id_produto_formulado_tecnico=4997"
+  },
+  {
+    "numero_registro": "12419",
+    "marca_comercial": [
+      "Clorpirifós Nortox EC"
+    ],
+    "titular_registro": "Nortox S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "clorpirifós (organofosforado) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "clorpirifós",
+        "grupo_quimico": "organofosforado",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "Contato",
+      "Ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=12419&p_id_produto_formulado_tecnico=14550"
+  },
+  {
+    "numero_registro": "23519",
+    "marca_comercial": [
+      "Closer"
+    ],
+    "titular_registro": "CTVA Proteção de Cultivos Ltda",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "sulfoxaflor (sulfoxaminas) (240 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "sulfoxaflor",
+        "grupo_quimico": "sulfoxaminas",
+        "concentracao": "240",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "24"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "Não Classificado - Produto Não Classificado",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=23519&p_id_produto_formulado_tecnico=13174"
+  },
+  {
+    "numero_registro": "9323",
+    "marca_comercial": [
+      "Cloud"
+    ],
+    "titular_registro": "Tradecorp do Brasil Comércio de insumos Agrícolas Ltda",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "Espirodiclofeno (cetoenol) (240 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "Espirodiclofeno",
+        "grupo_quimico": "cetoenol",
+        "concentracao": "240",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "24"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Polyphagotarsonemus latus",
+        "praga_nome_comum": [
+          "Ácaro-branco",
+          "Ácaro-tropical"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=09323&p_id_produto_formulado_tecnico=13986"
+  },
+  {
+    "numero_registro": "6922",
+    "marca_comercial": [
+      "Cofenrin",
+      "Orsa",
+      "Insectrin"
+    ],
+    "titular_registro": "Rainbow Defensivos Agrícolas Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "bifentrina (piretróide) (400 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "bifentrina",
+        "grupo_quimico": "piretróide",
+        "concentracao": "400",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "40"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "III - Produto Moderadamente Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=06922&p_id_produto_formulado_tecnico=16718"
+  },
+  {
+    "numero_registro": "19118",
+    "marca_comercial": [
+      "Compact."
+    ],
+    "titular_registro": "Sumitomo Chemical Brasil Indústria Química S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "lufenurom (benzoiluréia) (50 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "lufenurom",
+        "grupo_quimico": "benzoiluréia",
+        "concentracao": "50",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "5"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=19118&p_id_produto_formulado_tecnico=11213"
+  },
+  {
+    "numero_registro": "12025",
+    "marca_comercial": [
+      "Constel"
+    ],
+    "titular_registro": "UPL do Brasil Indústria e Comércio de Insumos Agropecuários S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "clorantraniliprole (antranilamida) (105 g/L)",
+      "metoxifenozida (diacilhidrazina) (420 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "metoxifenozida",
+        "grupo_quimico": "diacilhidrazina",
+        "concentracao": "420",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "42"
+      },
+      {
+        "ingrediente_ativo": "clorantraniliprole",
+        "grupo_quimico": "antranilamida",
+        "concentracao": "105",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "10,5"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=12025&p_id_produto_formulado_tecnico=20318"
+  },
+  {
+    "numero_registro": "5398",
+    "marca_comercial": [
+      "Cordial 100"
+    ],
+    "titular_registro": "Sumitomo Chemical Brasil Indústria Química S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "piriproxifem (éter piridiloxipropílico) (100 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "piriproxifem",
+        "grupo_quimico": "éter piridiloxipropílico",
+        "concentracao": "100",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "10"
+      }
+    ],
+    "modo_acao": [
+      "De contato e translaminar."
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": true,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=5398&p_id_produto_formulado_tecnico=5015"
+  },
+  {
+    "numero_registro": "4119",
+    "marca_comercial": [
+      "Cordial 100 EW"
+    ],
+    "titular_registro": "Sumitomo Chemical Brasil Indústria Química S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EW - Emulsão Óleo em Água",
+    "ingrediente_ativo": [
+      "piriproxifem (éter piridiloxipropílico) (100 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "piriproxifem",
+        "grupo_quimico": "éter piridiloxipropílico",
+        "concentracao": "100",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "10"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "Não Classificado - Produto Não Classificado",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=04119&p_id_produto_formulado_tecnico=13235"
+  },
+  {
+    "numero_registro": "16720",
+    "marca_comercial": [
+      "Cosavet",
+      "Enxofre 800 SML"
+    ],
+    "titular_registro": "SM Agrocare Brasil Importação Comércio e Serviços Agrícolas Ltda",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Fungicida"
+    ],
+    "formulacao": "WG - Grânulos Dispersíveis em Água",
+    "ingrediente_ativo": [
+      "enxofre (inorgânico) (800 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "enxofre",
+        "grupo_quimico": "inorgânico",
+        "concentracao": "800",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "80"
+      }
+    ],
+    "modo_acao": [
+      "Contato"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Polyphagotarsonemus latus",
+        "praga_nome_comum": [
+          "Ácaro-branco",
+          "Ácaro-tropical"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=16720&p_id_produto_formulado_tecnico=11389"
+  },
+  {
+    "numero_registro": "32318",
+    "marca_comercial": [
+      "Cougar"
+    ],
+    "titular_registro": "ALTA - America Latina Tecnologia Agrícola Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "piriproxifem (éter piridiloxipropílico) (100 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "piriproxifem",
+        "grupo_quimico": "éter piridiloxipropílico",
+        "concentracao": "100",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "10"
+      }
+    ],
+    "modo_acao": [
+      "Contato"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=32318&p_id_produto_formulado_tecnico=15831"
+  },
+  {
+    "numero_registro": "1510",
+    "marca_comercial": [
+      "Cutlass",
+      "Favorito 700 WG"
+    ],
+    "titular_registro": "SM Agrocare Brasil Importação Comércio e Serviços Agrícolas Ltda",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "WG - Grânulos Dispersíveis em Água",
+    "ingrediente_ativo": [
+      "imidacloprido (neonicotinóide) (700 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "imidacloprido",
+        "grupo_quimico": "neonicotinóide",
+        "concentracao": "700",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "70"
+      }
+    ],
+    "modo_acao": [
+      "sistêmico"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=1510&p_id_produto_formulado_tecnico=8925"
+  },
+  {
+    "numero_registro": "9015",
+    "marca_comercial": [
+      "DalNeem EC"
+    ],
+    "titular_registro": "Dalneem Brasil Comercio de Produtos Agropecuarios Ltda",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "azadiractina (Tetranortriterpenóide) (850 ml/litro)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "azadiractina",
+        "grupo_quimico": "Tetranortriterpenóide",
+        "concentracao": "850",
+        "unidade_medida": "ml/litro",
+        "percentual": "85"
+      }
+    ],
+    "modo_acao": [
+      "antialimentar e repelente de insetos"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "IV - Produto Pouco Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=9015&p_id_produto_formulado_tecnico=9838"
+  },
+  {
+    "numero_registro": "22418",
+    "marca_comercial": [
+      "Daniato"
+    ],
+    "titular_registro": "Ouro Fino Química S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "SP - Pó Solúvel",
+    "ingrediente_ativo": [
+      "acefato (organofosforado) (750 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "acefato",
+        "grupo_quimico": "organofosforado",
+        "concentracao": "750",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "75"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=22418&p_id_produto_formulado_tecnico=14562"
+  },
+  {
+    "numero_registro": "1678591",
+    "marca_comercial": [
+      "Danimen 300 EC"
+    ],
+    "titular_registro": "Sumitomo Chemical Brasil Indústria Química S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "fenpropatrina (piretróide) (300 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "fenpropatrina",
+        "grupo_quimico": "piretróide",
+        "concentracao": "300",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "30"
+      }
+    ],
+    "modo_acao": [
+      "De contato e ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Orthezia praelonga",
+        "praga_nome_comum": [
+          "Cochonilha-Orthezia",
+          "Cochonilha-de-placa"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "III - Produto Moderadamente Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": true,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=1678591&p_id_produto_formulado_tecnico=5031"
+  },
+  {
+    "numero_registro": "758498",
+    "marca_comercial": [
+      "Decis 25 EC"
+    ],
+    "titular_registro": "Bayer S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "deltametrina (piretróide) (25 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "deltametrina",
+        "grupo_quimico": "piretróide",
+        "concentracao": "25",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "2,5"
+      }
+    ],
+    "modo_acao": [
+      "De contato e ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "I - Produto Altamente Perigoso ao Meio Ambiente",
+    "inflamavel": true,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=758498&p_id_produto_formulado_tecnico=5033"
+  },
+  {
+    "numero_registro": "4301",
+    "marca_comercial": [
+      "Defend WDG",
+      "Thioquim WDG",
+      "Thiolux WDG"
+    ],
+    "titular_registro": "Quimetal Produtos Quimicos do Brasil Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Fungicida"
+    ],
+    "formulacao": "WG - Grânulos Dispersíveis em Água",
+    "ingrediente_ativo": [
+      "enxofre (inorgânico) (800 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "enxofre",
+        "grupo_quimico": "inorgânico",
+        "concentracao": "800",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "80"
+      }
+    ],
+    "modo_acao": [
+      "De contato"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Polyphagotarsonemus latus",
+        "praga_nome_comum": [
+          "Ácaro-branco",
+          "Ácaro-tropical"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "IV - Produto Pouco Perigoso ao Meio Ambiente",
+    "inflamavel": true,
+    "corrosivo": true,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=04301&p_id_produto_formulado_tecnico=5476"
+  },
+  {
+    "numero_registro": "14414",
+    "marca_comercial": [
+      "Delegate"
+    ],
+    "titular_registro": "CTVA Proteção de Cultivos Ltda",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "WG - Grânulos Dispersíveis em Água",
+    "ingrediente_ativo": [
+      "Espinetoram (espinosinas) (250 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "Espinetoram",
+        "grupo_quimico": "espinosinas",
+        "concentracao": "250",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "25"
+      }
+    ],
+    "modo_acao": [
+      "contato e ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=14414&p_id_produto_formulado_tecnico=8954"
+  },
+  {
+    "numero_registro": "19323",
+    "marca_comercial": [
+      "Delros 25 EC"
+    ],
+    "titular_registro": "Tagros Brasil Comércio de Produtos Químicos Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "deltametrina (piretróide) (25 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "deltametrina",
+        "grupo_quimico": "piretróide",
+        "concentracao": "25",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "2,5"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=19323&p_id_produto_formulado_tecnico=16435"
+  },
+  {
+    "numero_registro": "2221",
+    "marca_comercial": [
+      "Devamectin 18 EC"
+    ],
+    "titular_registro": "Agroallianz S.A",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida",
+      "Nematicida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "Abamectina (avermectina) (18 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "Abamectina",
+        "grupo_quimico": "avermectina",
+        "concentracao": "18",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "1,8"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Polyphagotarsonemus latus",
+        "praga_nome_comum": [
+          "Ácaro-branco",
+          "Ácaro-tropical"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "III - Produto Moderadamente Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=02221&p_id_produto_formulado_tecnico=16438"
+  },
+  {
+    "numero_registro": "3493",
+    "marca_comercial": [
+      "Dicarzol 500 SP"
+    ],
+    "titular_registro": "Gowan Produtos Agrícolas Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "SP - Pó Solúvel",
+    "ingrediente_ativo": [
+      "Cloridrato de formetanato (metilcarbamato de fenila) (582 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "Cloridrato de formetanato",
+        "grupo_quimico": "metilcarbamato de fenila",
+        "concentracao": "582",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "58,2"
+      }
+    ],
+    "modo_acao": [
+      "De contato e ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "II - Produto Altamente Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=3493&p_id_produto_formulado_tecnico=5041"
+  },
+  {
+    "numero_registro": "221",
+    "marca_comercial": [
+      "Difluben 240 SC"
+    ],
+    "titular_registro": "Sharda do Brasil Comércio de Produtos Químicos e Agroquímicos LTDA",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "diflubenzurom (benzoiluréia) (240 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "diflubenzurom",
+        "grupo_quimico": "benzoiluréia",
+        "concentracao": "240",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "24"
+      }
+    ],
+    "modo_acao": [
+      "Contato e ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=00221&p_id_produto_formulado_tecnico=11220"
+  },
+  {
+    "numero_registro": "4324",
+    "marca_comercial": [
+      "Diflubenzurom SCLA"
+    ],
+    "titular_registro": "Sumitomo Chemical Brasil Indústria Química S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "diflubenzurom (benzoiluréia) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "diflubenzurom",
+        "grupo_quimico": "benzoiluréia",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "Contato",
+      "Ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=04324&p_id_produto_formulado_tecnico=15704"
+  },
+  {
+    "numero_registro": "22616",
+    "marca_comercial": [
+      "Diflubenzuron 240 SC Crop"
+    ],
+    "titular_registro": "Avgust Crop Protection Importação e Exportação Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "diflubenzurom (benzoiluréia) (240 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "diflubenzurom",
+        "grupo_quimico": "benzoiluréia",
+        "concentracao": "240",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "240"
+      }
+    ],
+    "modo_acao": [
+      "Ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=22616&p_id_produto_formulado_tecnico=11131"
+  },
+  {
+    "numero_registro": "25624",
+    "marca_comercial": [
+      "Diflubenzuron 480 SC Proventis"
+    ],
+    "titular_registro": "Proventis Lifescience Defensivos Agrícolas Ltda",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "diflubenzurom (benzoiluréia) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "diflubenzurom",
+        "grupo_quimico": "benzoiluréia",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "Contato",
+      "Ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=25624&p_id_produto_formulado_tecnico=15185"
+  },
+  {
+    "numero_registro": "7021",
+    "marca_comercial": [
+      "Diflubenzuron CCAB 480 SC"
+    ],
+    "titular_registro": "CCAB Agro S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "diflubenzurom (benzoiluréia) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "diflubenzurom",
+        "grupo_quimico": "benzoiluréia",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "Contato",
+      "Ingestão"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=07021&p_id_produto_formulado_tecnico=11881"
+  },
+  {
+    "numero_registro": "7597",
+    "marca_comercial": [
+      "Dimetoato 500 EC Nortox"
+    ],
+    "titular_registro": "Nortox S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "dimetoato (organofosforado) (500 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "dimetoato",
+        "grupo_quimico": "organofosforado",
+        "concentracao": "500",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "50"
+      }
+    ],
+    "modo_acao": [
+      "Sistêmico."
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": true,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=7597&p_id_produto_formulado_tecnico=5112"
+  },
+  {
+    "numero_registro": "1808701",
+    "marca_comercial": [
+      "Dimexion"
+    ],
+    "titular_registro": "FMC Química do Brasil Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "dimetoato (organofosforado) (400 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "dimetoato",
+        "grupo_quimico": "organofosforado",
+        "concentracao": "400",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "40"
+      }
+    ],
+    "modo_acao": [
+      "De contato, profundidade e sistêmico."
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "IV - Produto Pouco Tóxico",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": true,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=1808701&p_id_produto_formulado_tecnico=5065"
+  },
+  {
+    "numero_registro": "31520",
+    "marca_comercial": [
+      "Dimilin 480 SC"
+    ],
+    "titular_registro": "UPL do Brasil Indústria e Comércio de Insumos Agropecuários S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "diflubenzurom (benzoiluréia) (480 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "diflubenzurom",
+        "grupo_quimico": "benzoiluréia",
+        "concentracao": "480",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "48"
+      }
+    ],
+    "modo_acao": [
+      "fisiológico"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=31520&p_id_produto_formulado_tecnico=10190"
+  },
+  {
+    "numero_registro": "2438798",
+    "marca_comercial": [
+      "Dithane NT"
+    ],
+    "titular_registro": "UPL do Brasil Indústria e Comércio de Insumos Agropecuários S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Fungicida"
+    ],
+    "formulacao": "WP - Pó Molhável",
+    "ingrediente_ativo": [
+      "mancozebe (alquilenobis(ditiocarbamato)) (800 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "mancozebe",
+        "grupo_quimico": "alquilenobis(ditiocarbamato)",
+        "concentracao": "800",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "80"
+      }
+    ],
+    "modo_acao": [
+      "De contato"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=2438798&p_id_produto_formulado_tecnico=5089"
+  },
+  {
+    "numero_registro": "40824",
+    "marca_comercial": [
+      "Dream"
+    ],
+    "titular_registro": "Sipcam Nichino Brasil S.A.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "EC - Concentrado Emulsionável",
+    "ingrediente_ativo": [
+      "etofenproxi (éter difenílico) (500 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "etofenproxi",
+        "grupo_quimico": "éter difenílico",
+        "concentracao": "500",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "50"
+      }
+    ],
+    "modo_acao": [],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=40824&p_id_produto_formulado_tecnico=20542"
+  },
+  {
+    "numero_registro": "9713",
+    "marca_comercial": [
+      "Durivo"
+    ],
+    "titular_registro": "Syngenta Proteção de Cultivos Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Inseticida"
+    ],
+    "formulacao": "SC - Suspensão Concentrada",
+    "ingrediente_ativo": [
+      "clorantraniliprole (antranilamida) (100 g/L)",
+      "tiametoxam (neonicotinóide) (200 g/L)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "tiametoxam",
+        "grupo_quimico": "neonicotinóide",
+        "concentracao": "200",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "20"
+      },
+      {
+        "ingrediente_ativo": "clorantraniliprole",
+        "grupo_quimico": "antranilamida",
+        "concentracao": "100",
+        "unidade_medida": "Gramas por Litros",
+        "percentual": "10"
+      }
+    ],
+    "modo_acao": [
+      "SISTÊMICO, CONTATO E INGESTÃO"
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocnistis citrella",
+        "praga_nome_comum": [
+          "Larva-minadora-das-folhas",
+          "Minadora-das-folhas"
+        ]
+      },
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Toxoptera citricida",
+        "praga_nome_comum": [
+          "Pulgão-preto",
+          "Pulgão-preto-dos-citrus"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "II - Produto Muito Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=9713&p_id_produto_formulado_tecnico=9314"
+  },
+  {
+    "numero_registro": "17820",
+    "marca_comercial": [
+      "Edegal",
+      "Rainzeb"
+    ],
+    "titular_registro": "Rainbow Defensivos Agrícolas Ltda.",
+    "produto_biologico": false,
+    "classe_categoria_agronomica": [
+      "Acaricida",
+      "Fungicida"
+    ],
+    "formulacao": "WG - Grânulos Dispersíveis em Água",
+    "ingrediente_ativo": [
+      "mancozebe (alquilenobis(ditiocarbamato)) (750 g/kg)"
+    ],
+    "ingrediente_ativo_detalhado": [
+      {
+        "ingrediente_ativo": "mancozebe",
+        "grupo_quimico": "alquilenobis(ditiocarbamato)",
+        "concentracao": "750",
+        "unidade_medida": "Gramas por Kilogramas",
+        "percentual": "75"
+      }
+    ],
+    "modo_acao": [
+      "Seletivo e de contato."
+    ],
+    "tecnica_aplicacao": [
+      "Terrestre",
+      "Aérea"
+    ],
+    "indicacao_uso": [
+      {
+        "cultura": "Citros",
+        "praga_nome_cientifico": "Phyllocoptruta oleivora",
+        "praga_nome_comum": [
+          "Ácaro-da-falsa-ferrugem",
+          "Ácaro-da-mulata"
+        ]
+      }
+    ],
+    "classificacao_toxicologica": "V - Produto Improvável de Causar Dano Agudo",
+    "classificacao_ambiental": "III - Produto Perigoso ao Meio Ambiente",
+    "inflamavel": false,
+    "corrosivo": false,
+    "produto_agricultura_organica": false,
+    "url_agrofit": "https://agrofit.agricultura.gov.br/agrofit_cons/!ap_produto_form_detalhe_cons?p_nr_registro=17820&p_id_produto_formulado_tecnico=11405"
+  }
+]
