@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Laranja-pera",
+    "compatible_plants": ["Feijão-guandu", "Mamona", "Bananeira", "Capim-limão", "Ervilha", "Crotalária"],
+    "incompatible_plants": ["Tomate", "Batata", "Cebola", "Alho", "Abóbora", "Pimentão"]
+  },
+  {
+    "name": "Laranja-baía",
+    "compatible_plants": ["Feijão", "Amendoim forrageiro", "Nabo", "Crotalária", "Girassol"],
+    "incompatible_plants": ["Tomate", "Berinjela", "Alface", "Pepino", "Cebola"]
+  },
+  {
+    "name": "Laranja-lima",
+    "compatible_plants": ["Mamona", "Capim-limão", "Ervilha-de-cabra", "Feijão-bravo", "Aveia"],
+    "incompatible_plants": ["Abóbora", "Batata", "Melancia", "Tomate", "Quiabo", "Pimentão"]
+  },
+  {
+    "name": "Laranja-seleta",
+    "compatible_plants": ["Feijão", "Amendoim", "Aveia", "Girassol", "Ervilha", "Crotalária"],
+    "incompatible_plants": ["Alho", "Cebola", "Berinjela", "Abóbora", "Pepino"]
+  },
+  {
+    "name": "Laranja-valência",
+    "compatible_plants": ["Feijão-guandu", "Mamona", "Ervilha", "Capim-limão", "Milho", "Inhame"],
+    "incompatible_plants": ["Pimentão", "Tomate", "Abóbora", "Batata", "Melancia", "Berinjela"]
+  },
+  {
+    "name": "Limão-tahiti",
+    "compatible_plants": ["Feijão-bravo", "Nabo", "Aveia", "Capim-limão", "Manjericão", "Girassol"],
+    "incompatible_plants": ["Abóbora", "Berinjela", "Tomate", "Alface", "Cenoura"]
+  },
+  {
+    "name": "Limão-cravo",
+    "compatible_plants": ["Feijão", "Mamona", "Girassol", "Milho", "Ervilha-de-cabra"],
+    "incompatible_plants": ["Cebola", "Alho", "Abóbora", "Tomate", "Batata", "Quiabo"]
+  },
+  {
+    "name": "Limão-siciliano",
+    "compatible_plants": ["Feijão-guandu", "Capim-limão", "Ervilha", "Aveia", "Girassol", "Crotalária"],
+    "incompatible_plants": ["Berinjela", "Melancia", "Tomate", "Pimentão", "Batata", "Alface"]
+  },
+  {
+    "name": "Tangerina-ponkan",
+    "compatible_plants": ["Feijão", "Crotalária", "Amendoim forrageiro", "Capim-limão", "Ervilha", "Mamona"],
+    "incompatible_plants": ["Tomate", "Abóbora", "Alho", "Batata", "Pimentão", "Berinjela"]
+  },
+  {
+    "name": "Tangerina-cravo",
+    "compatible_plants": ["Feijão", "Aveia", "Ervilha", "Capim-limão", "Milho", "Amendoim forrageiro"],
+    "incompatible_plants": ["Batata", "Berinjela", "Tomate", "Abóbora", "Cebola", "Pepino"]
+  },
+  {
+    "name": "Tangerina-murcott",
+    "compatible_plants": ["Feijão-guandu", "Mamona", "Ervilha-de-cabra", "Crotalária", "Capim-limão", "Aveia"],
+    "incompatible_plants": ["Abóbora", "Berinjela", "Tomate", "Batata", "Pimentão", "Alho"]
+  },
+  {
+    "name": "Mexerica",
+    "compatible_plants": ["Feijão", "Ervilha", "Mamona", "Amendoim", "Nabo", "Capim-limão"],
+    "incompatible_plants": ["Tomate", "Cebola", "Abóbora", "Melancia", "Pimentão", "Berinjela"]
+  },
+  {
+    "name": "Lima-da-pérsia",
+    "compatible_plants": ["Aveia", "Ervilha", "Feijão-guandu", "Amendoim", "Mamona", "Capim-limão"],
+    "incompatible_plants": ["Berinjela", "Tomate", "Alho", "Abóbora", "Cebola", "Melancia"]
+  },
+  {
+    "name": "Cidra",
+    "compatible_plants": ["Mamona", "Ervilha", "Feijão-bravo", "Aveia", "Crotalária"],
+    "incompatible_plants": ["Pimentão", "Tomate", "Berinjela", "Batata", "Melancia", "Abóbora"]
+  },
+  {
+    "name": "Kinkan",
+    "compatible_plants": ["Capim-limão", "Manjericão", "Ervilha", "Aveia", "Nabo", "Crotalária"],
+    "incompatible_plants": ["Berinjela", "Abóbora", "Pimentão", "Tomate", "Cebola", "Batata"]
+  }
+]
